@@ -1,4 +1,4 @@
-Learn more about me at omkaarshenoy.github.io !
+Hello! Learn more about me at [omkaarshenoy.github.io](omkaarshenoy.github.io) 💻
 
 <!---
 OmkaarShenoy/OmkaarShenoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
